@@ -26,7 +26,7 @@ CapCut Pro is a powerful and user-friendly video editing software designed for c
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/user-attachments/assets/973d86fd-2a49-4228-b24d-4dd79156707d) <!-- Replace with your screenshot image link -->
+![Screenshot 1](https://github.com/user-attachments/assets/161dd314-66c4-443f-802f-06bb2d64e5c7) <!-- Replace with your screenshot image link -->
 
 ## Support
 
